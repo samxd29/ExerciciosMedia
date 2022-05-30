@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14c97e6c-6313-4af8-a4c6-6f2cfe0be4f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosPoo2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treinamento1/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treinamento2/CalculoMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treinamento2/Média.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treinamento2/calcularMedia.java" afterDir="false" />
+    <list default="true" id="14c97e6c-6313-4af8-a4c6-6f2cfe0be4f0" name="Changes" comment="Calculos das médias e exercicios de lógica">
+      <change afterPath="$PROJECT_DIR$/src/treinamento3/treino3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treinamento4/treino4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treinamento5/treino5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treinamento6/treino6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -38,27 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.treinamento2.Média">
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="treinamento1.Principal" />
-      <module name="ExerciciosPoo2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="treinamento2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.treino5">
     <configuration name="treinamento2.Média" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="treinamento2.Média" />
       <module name="ExerciciosPoo2" />
@@ -72,10 +56,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="treino3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treinamento3.treino3" />
+      <module name="ExerciciosPoo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treinamento3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="treino4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treinamento4.treino4" />
+      <module name="ExerciciosPoo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treinamento4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="treino5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treinamento5.treino5" />
+      <module name="ExerciciosPoo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treinamento5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="treino6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treinamento6.treino6" />
+      <module name="ExerciciosPoo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treinamento6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.treino5" />
+        <item itemvalue="Application.treino6" />
+        <item itemvalue="Application.treino4" />
+        <item itemvalue="Application.treino3" />
         <item itemvalue="Application.treinamento2.Média" />
-        <item itemvalue="Application.treinamento1.Principal" />
       </list>
     </recent_temporary>
   </component>
@@ -88,6 +127,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653849355738</updated>
     </task>
+    <task id="LOCAL-00001" summary="Calculos das médias e exercicios de lógica">
+      <created>1653855374889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653855374889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +147,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Calculos das médias e exercicios de lógica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculos das médias e exercicios de lógica" />
   </component>
 </project>
